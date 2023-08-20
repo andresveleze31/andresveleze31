@@ -49,6 +49,11 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
+
+###
+
+<img src="https://raw.githubusercontent.com/andresveleze31/andresveleze31/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
