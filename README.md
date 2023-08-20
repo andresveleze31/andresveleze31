@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Andres Velez</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-<h2 align="left">Hi 👋! My name is Andres Velez and I'm a student</h2>
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/mRXLiLlUNvsAAAAi/bugs-bugs-bunny.gif"  />
