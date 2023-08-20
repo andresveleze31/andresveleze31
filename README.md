@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/mRXLiLlUNvsAAAAi/bugs-bugs-bunny.gif"  />
+<img align="center" height="150" src="https://media.tenor.com/mRXLiLlUNvsAAAAi/bugs-bugs-bunny.gif"  />
 
 ###
 
