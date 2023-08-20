@@ -1,3 +1,8 @@
+
+
+<h1 align="center">Hi 👋, I'm Andres Velez</h1>
+<h3 align="center">A passionate developer from Colombia</h3>
+
 <h2 align="left">Hi 👋! My name is Andres Velez and I'm a student</h2>
 
 ###
@@ -48,9 +53,6 @@
 </div>
 
 ###
-
-<h1 align="center">Hi 👋, I'm Andres Velez</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresveleze31&label=Profile%20views&color=0e75b6&style=flat" alt="andresveleze31" /> </p>
 
