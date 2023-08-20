@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresveleze31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align = "rigth"><img align="center" height="150" src="https://media.tenor.com/mRXLiLlUNvsAAAAi/bugs-bugs-bunny.gif"  /></div>
+<img align="right" height="150" src="https://media.tenor.com/mRXLiLlUNvsAAAAi/bugs-bugs-bunny.gif"  />
 
 ###
 
