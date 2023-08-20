@@ -52,3 +52,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresveleze31&" alt="andresveleze31" /></p>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/andresveleze31/andresveleze31/output/snake.svg" alt="Snake animation" />
+
+###
+
